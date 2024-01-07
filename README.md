@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrey Verstunin. `@00rei`
-- I’m interested in programming, anime, games.
-- The programming languages I'm currently interested in are `Python` and `PHP`.
-- I graduated from Altai State Technical University in 2022. My specialty is applied computer science in economics.
-- How to reach me - verstunin00@gmail.com
-
+- 👋 Hi, I'm Andrei Verstunin. `@00rei`.
+- I like to create web applications.
+- The programming languages I am interested in at the moment are `Python` and `JS`.
+- I graduated from Altai State Technical University in 2022. My specialty is `applied informatics in economics`.
+- Now I continue to study in the same direction, but already in the master's program.
+- How to contact me - verstunin00@gmail.com
