@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Andrei Verstunin. `@00rei`.
+- 👋 Hi, I'm Andrey Verstunin. `@00rei`
 - I like to create web applications.
 - The programming languages I am interested in at the moment are `Python` and `JS`.
 - I graduated from Altai State Technical University in 2022. My specialty is `applied informatics in economics`.
